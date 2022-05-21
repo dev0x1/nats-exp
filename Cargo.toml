@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+    "service-a",
+    "service-b",
+    "tracer",
+    "nats-actor",
+    "nats-actor2",
+]
